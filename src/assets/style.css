@@ -1,0 +1,19 @@
+.cotainer {
+  display: flex;
+  flex-direction: row;
+}
+.section {
+  width: 50%;
+}
+
+.product-card {
+  background-color: rgb(232, 226, 226);
+  padding: 20px;
+  margin: 20px;
+  border: 1px solid black;
+}
+
+img {
+  height: 60px;
+  width: 60px;
+}
